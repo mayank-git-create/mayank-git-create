@@ -15,10 +15,10 @@
   &nbsp
   <img width="50" height="50" src="https://img.icons8.com/material/50/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mac-os.png" alt="mac-os"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-512.png" alt="Jenkins" width="40" height="40">
   <img width="50" height="50" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/external-cloud-multimedia-kiranshastry-lineal-color-kiranshastry.png" alt="external-cloud-multimedia-kiranshastry-lineal-color-kiranshastry"/>
   <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50" height="50">
   &nbsp
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-512.png" alt="Jenkins" width="40" height="40">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mac-os.png" alt="mac-os"/>
 </p>
