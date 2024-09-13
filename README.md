@@ -20,5 +20,5 @@
   <img src="https://img.icons8.com/?size=100&id=13468&format=png&color=000000" alt="Terraform" width="50" height="50">
   <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50" height="50">
   &nbsp
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
 </p>
