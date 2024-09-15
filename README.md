@@ -1,7 +1,7 @@
 ## Hi there, I'm Mayank 👋
 
 - 🔭 I’m currently working on getting Microsoft Certified: Azure Fundamentals AZ900
-- 🌱 I’m currently learning Cloud Support and DevOps
+- 🌱 My goal is to be a Cloud Support and DevOps Engineer
 - 👯 I’m looking to collaborate on AI applications in HR
 - 🤔 I’m looking for help with bringing the HR and IT communities closer together
 - 💬 Ask me about bio-hacking
