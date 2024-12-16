@@ -1,12 +1,12 @@
 ## Hi there, I'm Mayank 👋
 
-- 🔭 I’m currently working on getting Microsoft Certified: Azure Fundamentals AZ900
-- 🌱 My goal is to be a Cloud Support and DevOps Engineer
-- 👯 I’m looking to collaborate on AI applications in HR
-- 🤔 I’m looking for help with bringing the HR and IT communities closer together
+- 🔭 I’m Microsoft Certified: Azure Fundamentals AZ900
+- 🌱 My goal is to transition to a trainer role in AI and technology
+- 👯 I’m looking to collaborate on AI applications
+- 🤔 I’m interested in bringing the HR and IT communities closer together
 - 💬 Ask me about bio-hacking
 - 📫 How to reach me: mayank.parekh@gmail.com
-- ⚡ Fun fact: Budding triathlete 🏆
+- ⚡ Fun fact: Aspiring triathlete 🏆
 
 ## Languages & Tools 
 <p align="left"> 
