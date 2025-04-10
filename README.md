@@ -1,12 +1,12 @@
 ## Hi there, I'm Mayank 👋
 
-- 🔭 I’m Microsoft Certified: Azure Fundamentals AZ900
-- 🌱 My goal is to transition to a trainer role in AI and technology
+- 🔭 I’m Microsoft Certified Azure Fundamentals AZ900 and AWS Certified Cloud Practitioner
+- 🌱 My goal is to transition to a role in Cloud Support and DevOps
 - 👯 I’m looking to collaborate on AI applications
 - 🤔 I’m interested in bringing the HR and IT communities closer together
 - 💬 Ask me about bio-hacking
 - 📫 How to reach me: mayank.parekh@gmail.com
-- ⚡ Fun fact: Aspiring triathlete 🏆
+- ⚡ Fun fact: Aspiring T100 🏆
 
 ## Languages & Tools 
 <p align="left"> 
